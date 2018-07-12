@@ -1,0 +1,10 @@
+
+exxtend layout
+block content
+h1 train schedule
+p select your train below to see its current schedule
+#wrapper
+#trainlist 
+h2 Trains
+#trains.d-flex.flex-row
+
